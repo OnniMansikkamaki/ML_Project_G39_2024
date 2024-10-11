@@ -4,7 +4,7 @@ SETUP
 2. Clone this repository to an EMPTY folder on your computer
     - In VSCode, open terminal.
     - Navigate to the empty foler on terminal.
-    - In empty folder, insert command "git clone https://github.com/OnniMansikkamaki/DM_Project_Group28_2024.git"
+    - In empty folder, insert command "git clone https://github.com/OnniMansikkamaki/ML_Project_G39_2024.git"
     - Now you have the code on your computer. You will be in branch called master
 
 WORK ON YOUR OWN IN YOUR OWN BRANCH
