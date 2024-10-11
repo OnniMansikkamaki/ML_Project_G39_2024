@@ -1,0 +1,34 @@
+
+SETUP
+1. Download git from internet if you do not have it already.
+2. Clone this repository to an EMPTY folder on your computer
+    - In VSCode, open terminal.
+    - Navigate to the empty foler on terminal.
+    - In empty folder, insert command "git clone https://github.com/OnniMansikkamaki/DM_Project_Group28_2024.git"
+    - Now you have the code on your computer. You will be in branch called master
+
+WORK ON YOUR OWN IN YOUR OWN BRANCH
+1. Check out in which branch you are in with "git status". This command is always helpful in every step of ANY git process.
+2. IF you already have a new branch or you want to make changes in some spesific exiosting branch, move to that branch with 
+    "git checkout <branch_name_here>"
+3. ELSE: ALWAYS BEFORE CREATING A NEW BRANCH, USE GIT PULL TO GET UPDATD CODES FROM EVERYONE
+4. Make a new branch by "git checkout -b <name_of_new_branch_here>"
+5. To check all possible branches just type "git branch"
+6. NOW MAKE YOU CODE CHANGES OR CREATE NEW CODE OR WHATEVER YOU WANT
+
+PUBLISH YOU BRANCH FOR EVERYONE TO SEE
+1. Check "git status". There you can see you have made changes
+2. To add your changes to commit, "git add ." This adds all your changes to the commit
+3. To commit your changes to this branch (kind of save the changes), 'git commit -m "MESSAGE EXPLAINING YOUR CHANGES HERE" '
+4. To publish your changes (and also to make the branch visible for everyone if this is your
+    frist code change in this branch) for everyone to see in this branch (your branch) "git push". First time you do it, you will
+    run into error code, but IT WILL SAY YOU WHAT YOU NEED TO DO! After that, just run "git push" again.
+5. Now your changes are visible for everyone in your branch
+
+MERGE YOUR BRANCH TO BE PART OF THE MASTER BRANCH'S CODE
+1. When we are ready to merge your changes to be part of our final code (Final code always is ONLY in master branch)
+    is time to do a git merge process.
+2. MAKE SURE THAT THERE ARE NO ERRORS AT ALL IN THE CODE AT THIS POINT. TEST YOUR CODE THAT IT WORKS AND THAT IT WILL NOT BREAK
+    ANY OTHER CODE.
+3. First navigate to master branch by "git checkout master"
+4. Then type "git merge <branch_name_here>"
