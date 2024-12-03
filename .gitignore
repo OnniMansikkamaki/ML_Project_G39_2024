@@ -1,3 +1,9 @@
 sample_submission.csv
 test_data.csv
 train_data.csv
+train_data_processed_non_standardized.csv
+train_data_processed_standardized.csv
+validation_data_processed_non_standardized.csv
+validation_data_processed_standardized.csv
+test_data_processed_non_standardized.csv
+test_data_processed_standardized.csv
