@@ -1,0 +1,19 @@
+Feature,Logistic_Rank,DT_Rank,RF_Rank,XGBoost_Rank,Sum_of_Ranks
+Average Weekly Wage,4,1,1,3,9
+IME-4 Count,5,5,4,4,18
+Attorney/Representative,2,13,8,1,24
+Accident Date,9,2,2,13,26
+C-2 Date,7,3,3,16,29
+First Hearing Date,1,16,12,2,31
+Industry Code,14,7,9,5,35
+Assembly Date,6,10,5,14,35
+Age at Injury,10,4,6,17,37
+Days Until Injury Reported,12,6,10,12,40
+WCIO Part Of Body Code,16,9,11,7,43
+WCIO Cause of Injury Code,18,8,7,10,43
+C-3 Date,3,18,16,8,45
+WCIO Nature of Injury Code,15,12,13,6,46
+Carrier Type,11,15,17,9,52
+District Name,13,14,15,11,53
+Gender,8,17,18,15,58
+Number of Dependents,17,11,14,18,60
